@@ -30,8 +30,4 @@ These properties are auto-imported into projects in child directories.
     <Title>Monitored Undo Framework</Title>
   </PropertyGroup>
 
-  <ItemGroup Label="Analyzers">
-    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.6.3" PrivateAssets="all" />
-  </ItemGroup>
-
 </Project>
